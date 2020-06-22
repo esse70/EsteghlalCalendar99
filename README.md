@@ -1,15 +1,3 @@
-# Android Persian Calendar
-
-[![GitHub Actions](https://action-badges.now.sh/persian-calendar/DroidPersianCalendar?workflow=android)](https://github.com/persian-calendar/DroidPersianCalendar/actions)
-
-<div dir=rtl>
-
-## تقویم فارسی اندروید
-
-تقویم ساده، رایگان و آزاد اندروید به همراه ویجت و پشتیبانی از DashClock  
-برای دریافت و نصب بر برگهٔ releases در بالای صفحه کلیک کنید.
-
-</div>
 
 ## Download
 
